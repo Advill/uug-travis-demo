@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>UUG Demo Site</title><link href="https://Advill.github.io/uug-travis-demo/" rel="alternate"></link><link href="https://Advill.github.io/uug-travis-demo/feeds/all.atom.xml" rel="self"></link><id>https://Advill.github.io/uug-travis-demo/</id><updated>2017-02-14T19:03:00-05:00</updated><entry><title>Post 1</title><link href="https://Advill.github.io/uug-travis-demo/post-1.html" rel="alternate"></link><published>2017-02-14T19:03:00-05:00</published><updated>2017-02-14T19:03:00-05:00</updated><author><name>Michael McGloin</name></author><id>tag:advill.github.io,2017-02-14:/uug-travis-demo/post-1.html</id><summary type="html">&lt;p&gt;A test blog post for showing how cool travis is&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Test Post&lt;/h1&gt;
+&lt;p&gt;asdffdsaasdfasdfjkdlsa;ghdklsafjkvjowiethimcloolsaalsdkjfowingalsdvj&lt;/p&gt;
+&lt;h2&gt;heading 2&lt;/h2&gt;
+&lt;p&gt;asdfjkdlsa;&lt;/p&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;asdf&lt;/p&gt;
+&lt;h2&gt;memes&lt;/h2&gt;
+&lt;p&gt;dfsafsd&lt;/p&gt;</content><category term="test"></category><category term="travis"></category></entry></feed>
